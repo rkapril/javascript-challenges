@@ -1,3 +1,4 @@
+// While Loop
 function fibonacciGenerator(n) {
   output = [];
 
