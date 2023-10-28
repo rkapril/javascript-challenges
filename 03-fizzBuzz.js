@@ -1,3 +1,5 @@
+count = 1;
+
 // While Loop
 function fizzBuzz() {
   while (count <= 100) {
